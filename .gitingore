@@ -1,0 +1,6 @@
+/usecase/build/
+.gradle/
+.idea/
+!workspace.xml
+!tasks.xml
+/basic_example/usecase/build/*
